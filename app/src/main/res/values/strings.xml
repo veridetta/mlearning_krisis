@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Mobile Learning - Krisis Energi </string>
+    <string name="judul">Krisis Energi dan Pengaruhnya Terhadap Lingkungan</string>
+    <string name="sub_judul">Melatih Kemampuan Kolaborasi dan Pemahaman Krisis Energi</string>
+    <string name="tentang">Mobile Learning ini membahas materi tentang energi, krisis energi, dan upaya penanggulangannya. Aplikasi ini berisi materi pembelajaran, latihan soal dan tes. Melalui kegiatan pembelajaran dengan menggunakan bahan ajar ini, peserta didik diharapkan dapat terbentuk literasi energinya, serta dapat mengoptimalkan kreativitasnya dalam memecahkan masalah yang terkait dengan energi di kehidupan sehari-hari
+
+    </string>
+    <string name="penyusun">Alfiansah Sandion Prakoso \n Magister Pendidikan IPA \n Universitas Pendidikan Indonesia
+</string>
+    <string name="dulunyaa_kognitif"><![CDATA[<html><ul><li>Mendefinisikan bioteknologi </li>
+<li>Mengumpulkan informasi tentang penerapan bioteknologi dalam kehidupan manusia.</li>
+<li>Menjelaskan ciri-ciri bioteknologi.</li>
+<li>Membedakan bioteknologi konvensional dan bioteknologi modern. </li>
+<li>Menjelaskan proses fermentasi dalam produk bioteknologi konvensional </li>
+<li>Membuat salah satu produk bioteknologi konvensional. </li>
+<li>Menjelaskan contoh penerapan bioteknologi modern.</li>
+<li>Menyajikan karya tentang proses dan produk bioteknologi konvensional </li>
+<li>Menjelaskan dampak bioteknologi bagi makhluk hidup dan lingkungan.  </li>
+<li>Mendefinisikan teknologi ramah lingkungan.</li>
+<li>Mengumpulkan informasi tentang teknologi ramah lingkungan. </li>
+<li>Menjelaskan prinsip dasar teknologi ramah lingkungan.  </li>
+<li>Menjelaskan contoh penerapan teknologi ramah lingkungan diberbagai bidang. </li>
+<li>Menganalisis salah satu produk teknologi ramah lingkungan  </li>
+<li>Menyajikan karya tentang proses dan produk teknologi sederhana yang ramah lingkungan. </li>
+<li>Menguraikan manfaat teknologi ramah lingkungan bagi makhluk hidup dan lingkungan. </li>
+<li>Menjelaskan teknologi tidak ramah lingkungan. </li>
+<li>Mengelompokkan teknologi ramah lingkungan dan tidak ramah lingkungan.</li>
+<li>Menguraikan dampak teknologi tidak ramah lingkungan bagi makhluk hidup dan lingkungan.</li></ul></html>
+]]>
+</string>
+    <string name="token"></string>
+    <string name="petunjuk">
+        <![CDATA[<html><ul><li>Buka menu “Materi” untuk mempelajari materi dengan seksama</li>
+        <li>Kerjakan Latihan yang terdapat pada aplikasi untuk mengasah kemampuan dan mengetahui perkembangan belajar</li>
+        <li>Catatlah semua kesulitan yang anda alami dalam mempelajari materi di aplikasi ini dan tanyakan pada instruktur / guru</li>
+        </ul></html>]]>
+    </string>
+    <string name="penyajian">
+        1.	Materi Pelajaran
+        \n Berisi pengetahuan berupa penjelasan isi materi pelajaran yang berkaitan dengan tema Teknologi dan Lingkungan yang disajikan dalam bentuk teks, gambar, animasi, dan video yang disesuaikan dengan fakta yang terjadi di lapangan.
+        \n 2.	Aktivitas Siswa (Mandiri dan Kelompok)
+        \n Berupa petunjuk aktivitas yang harus dilakukan siswa untuk melatih kemampuan kolaborasi dan pemahaman hakikat sains (Nature of Science) siswa.
+        \n 3.	Evaluasi
+        \n Berisi soal-soal untuk dikerjakan oleh siswa setelah mempelajari seluruh materi dalam aplikasi mobile learning ini.
+    </string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

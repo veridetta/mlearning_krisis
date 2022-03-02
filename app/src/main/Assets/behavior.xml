@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<latihan>
+    <soal><isi><teks>Saya berusaha untuk menghemat air </teks></isi>
+<a><teks>Selalu / hampir selalu</teks></a>
+<b><teks>Cukup sering</teks></b>
+<c><teks>Kadang-kadang</teks></c>
+<d><teks>Jarang</teks></d>
+<e><teks>Tidak pernah / hampir tidak pernah</teks></e>
+<kunci></kunci>
+</soal>
+<soal><isi><teks>Saya lebih memilih berjalan kaki, atau menaiki sepeda untuk transportasi jarak dekat dibanding menggunakan kendaraan bermotor </teks></isi>
+<a><teks>Selalu / hampir selalu</teks></a>
+<b><teks>Cukup sering</teks></b>
+<c><teks>Kadang-kadang</teks></c>
+<d><teks>Jarang</teks></d>
+<e><teks>Tidak pernah / hampir tidak pernah</teks></e>
+<kunci></kunci>
+</soal>
+<soal><isi><teks>Ketika meninggalkan kamar/ruangan, saya selalu mematikan lampu </teks></isi>
+<a><teks>Selalu / hampir selalu</teks></a>
+<b><teks>Cukup sering</teks></b>
+<c><teks>Kadang-kadang</teks></c>
+<d><teks>Jarang</teks></d>
+<e><teks>Tidak pernah / hampir tidak pernah</teks></e>
+<kunci></kunci>
+</soal>
+<soal><isi><teks>Saya mematikan komputer ketika tidak digunakan / sedang beristirahat sejenak </teks></isi>
+<a><teks>Selalu / hampir selalu</teks></a>
+<b><teks>Cukup sering</teks></b>
+<c><teks>Kadang-kadang</teks></c>
+<d><teks>Jarang</teks></d>
+<e><teks>Tidak pernah / hampir tidak pernah</teks></e>
+<kunci></kunci>
+</soal>
+<soal><isi><teks>Setiap keputusan yang saya buat banyak dipengaruhi apa yang ada di otak saya tentang penggunaan energi </teks></isi>
+<a><teks>Selalu / hampir selalu</teks></a>
+<b><teks>Cukup sering</teks></b>
+<c><teks>Kadang-kadang</teks></c>
+<d><teks>Jarang</teks></d>
+<e><teks>Tidak pernah / hampir tidak pernah</teks></e>
+<kunci></kunci>
+</soal>
+<soal><isi><teks>keluarga saya membeli lampu hemat energi dibanding lampu biasa </teks></isi>
+<a><teks>Selalu / hampir selalu</teks></a>
+<b><teks>Cukup sering</teks></b>
+<c><teks>Kadang-kadang</teks></c>
+<d><teks>Jarang</teks></d>
+<e><teks>Tidak pernah / hampir tidak pernah</teks></e>
+<kunci></kunci>
+</soal>
+<soal><isi><teks>Saya ingin/akan mengajak keluarga saya untuk membeli lampu hemat energi </teks></isi>
+<a><teks>Selalu / hampir selalu</teks></a>
+<b><teks>Cukup sering</teks></b>
+<c><teks>Kadang-kadang</teks></c>
+<d><teks>Jarang</teks></d>
+<e><teks>Tidak pernah / hampir tidak pernah</teks></e>
+<kunci></kunci>
+</soal>
+<soal><isi><teks>Saya akan membeli lebih sedikit barang demi menghemat energi </teks></isi>
+<a><teks>Selalu / hampir selalu</teks></a>
+<b><teks>Cukup sering</teks></b>
+<c><teks>Kadang-kadang</teks></c>
+<d><teks>Jarang</teks></d>
+<e><teks>Tidak pernah / hampir tidak pernah</teks></e>
+<kunci></kunci>
+</soal>
+
+</latihan>

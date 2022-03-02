@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057038717495",
+    "project_id": "mlearning-krisis-energi",
+    "storage_bucket": "mlearning-krisis-energi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057038717495:android:e275791dc48a204acd65b2",
+        "android_client_info": {
+          "package_name": "com.inc.vr.corp.app.mobilelearning_krisisenergi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057038717495-855a73lhjcdhq2krspfvbef5apa15sp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhuSzCztpZnZRfNmj7A1CLXv__yfZH64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057038717495-855a73lhjcdhq2krspfvbef5apa15sp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
