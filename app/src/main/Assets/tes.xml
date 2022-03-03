@@ -111,7 +111,6 @@
 </soal>
 
 <soal><isi><teks>Perhatikan grafik berikut! </teks>
-<gambar>pgg13</gambar>
 <teks>Grafik ini menggambarkan data historis produksi dan konsumsi BBM di Indonesia dari tahun 1980 hingga 2012</teks>
 <gambar>pgg13</gambar>
 <teks>Dari grafik ini dapat disimpulkan bahwa ….</teks></isi>
@@ -138,35 +137,26 @@ Salah satu kendala penggunaan kendaraan yang lebih ramah lingkungan seperti kend
 </teks></isi></essay>
 <essay>
 <isi><teks>PLN ingin menyediakan akses listrik bagi salah satu desa di pulau terpencil yang cukup jauh dari kota. Berdasarkan survey yang telah dilakukan sebelumnya ada beberapa informasi yang dijadikan bahan pertimbangan pemilihan sumber energi pembangkit listrik di desa tersebut: </teks>
-<teks>
-1.	Lokasi desa ke jaringan listrik PLN terdekat adalah 100 km </teks>
-<teks>
-2.	Pekerjaan utama masyarakat desa tersebut adalah petani dan peternak unggas</teks>
-<teks>
-3.	Desa ini ketika musim kemarau panjang, irigasi sawah seringkali mengalami kekeringan</teks>
-<teks>
-4.	Kontur wilayah cenderung rata (tidak banyak pegunungan / perbukitan). </teks>
-<teks>
-5.	Luas wilayah 320 Ha, 10% adalah hutan, jumlah penduduk 500 orang jarak antar rumah penduduk sekitar 50 m.  </teks>
+<teks>1.	Lokasi desa ke jaringan listrik PLN terdekat adalah 100 km </teks>
+<teks>2.	Pekerjaan utama masyarakat desa tersebut adalah petani dan peternak unggas</teks>
+<teks>3.	Desa ini ketika musim kemarau panjang, irigasi sawah seringkali mengalami kekeringan</teks>
+<teks>4.	Kontur wilayah cenderung rata (tidak banyak pegunungan / perbukitan). </teks>
+<teks>5.	Luas wilayah 320 Ha, 10% adalah hutan, jumlah penduduk 500 orang jarak antar rumah penduduk sekitar 50 m.  </teks>
 <teks>Berdasarkan informasi tersebut akhirnya terpilihlah 3 opsi untuk menyediakan listrik di daerah tersebut: </teks>
-<teks>
-A.	Menyambung akses listrik dari kota terdekat yang sudah tersedia infrastuktur tenaga listriknya</teks>
-<teks>
-B.	Membangun PLTS (tenaga surya) </teks>
-<teks>
-C.	Membangun PLTB (tenaga angin) skala kecil. 
-</teks>
+<teks>A.	Menyambung akses listrik dari kota terdekat yang sudah tersedia infrastuktur tenaga listriknya</teks>
+<teks>B.	Membangun PLTS (tenaga surya) </teks>
+<teks>C.	Membangun PLTB (tenaga angin) skala kecil. </teks>
 <teks>Dari ketiga opsi ini, coba kamu kemukakan kelebihan dan kekurangannya jika diterapkan pada desa tersebut! Dan dari kelebihan dan kekurangan tersebut, manakah opsi yang paling cocok untuk diterapkan?
 </teks></isi></essay>
 <essay>
 <isi>
-<teks>“Cadangan minyak Indonesia tersisa sekitar 3,7 miliar barrel cukup untuk 11-12 tahun yang akan datang. Perhitungan ini dengan asumsi produksi 700.000-800.000 barrel per hari. Konsumsi minyak Indonesia saat ini sekitar 1,5 juta barrel per hari. Dengan asumsi pertumbuhan konsumsi minyak 6 persen per tahun, pada 2025 kebutuhan minyak akan meningkat menjadi 2,7 juta barrel per hari. Pertumbuhan konsumsi dipengaruhi pertumbuhan ekonomi dan pertambahan populasi atau jumlah penduduk di Indonesia” (sumber: kemenperin.go.id) </teks>
-
+<html_format>kk2020p style="padding-left:10%;padding-right:10%">kk2020i>“Cadangan minyak Indonesia tersisa sekitar 3,7 miliar barrel cukup untuk 11-12 tahun yang akan datang. Perhitungan ini dengan asumsi produksi 700.000-800.000 barrel per hari. Konsumsi minyak Indonesia saat ini sekitar 1,5 juta barrel per hari. Dengan asumsi pertumbuhan konsumsi minyak 6 persen per tahun, pada 2025 kebutuhan minyak akan meningkat menjadi 2,7 juta barrel per hari. Pertumbuhan konsumsi dipengaruhi pertumbuhan ekonomi dan pertambahan populasi atau jumlah penduduk di Indonesia” (sumber: kemenperin.go.id)kk2020/i>kk2020/p> </html_format>
+<gambar>pgg20</gambar>
 <teks>Dari cuplikan berita tersebut, menurutmu bagaimana kondisi ketahanan energi (terutama minyak bumi) di Indonesia saat ini dan yang akan datang? Kemukakan data-data yang mendukung pernyataanmu!
 </teks></isi></essay>
 <essay> 
-<isi><teks>“Dilansir dari Wartakotalive, banjir besar dan merata yang hampir melanda seluruh wilayah Provinsi Kalimantan Selatan mengejutkan masyarakat setempat. Banjir di Kalsel menyebabkan sejumlah orang meninggal dan 112 ribu warga lainnya mengungsi akibat perkampungan mereka terendam banjir.
-</teks> 
+<isi>
+<html_format>kk2020p style="padding-left:10%;padding-right:10%">kk2020i>“Dilansir dari Wartakotalive, banjir besar dan merata yang hampir melanda seluruh wilayah Provinsi Kalimantan Selatan mengejutkan masyarakat setempat. Banjir di Kalsel menyebabkan sejumlah orang meninggal dan 112 ribu warga lainnya mengungsi akibat perkampungan mereka terendam banjir. kk2020/i>kk2020/p> </html_format>
 
 <gambar> esg1</gambar>
 <teks>Sejauh ini, Badan Penanggulangan Bencana Nasional (BNBP) menyampaikan terdapat tujuh kabupaten yang terdampak banjir di Kalimantan Selatan. Ini pertama kali sepanjang sejarah Kalimantan Selatan dilanda banjir besar. “</teks>

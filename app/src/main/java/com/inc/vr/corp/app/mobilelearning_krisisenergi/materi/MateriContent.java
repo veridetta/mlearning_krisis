@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
+import android.graphics.Color;
 import android.graphics.Typeface;
 import android.media.Image;
 import android.net.Uri;
@@ -87,6 +88,7 @@ public class MateriContent extends AppCompatActivity {
     private static final int PICKFILE_RESULT_CODE = 8778;
     public static final int PICK_IMAGE = 1;
     private FirebaseAnalytics mFirebaseAnalytics;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -156,6 +158,7 @@ public class MateriContent extends AppCompatActivity {
                     tv.setTextSize(TypedValue.COMPLEX_UNIT_PX,
                             getResources().getDimension(R.dimen._16sdp));
                     tv.setPadding(5, 3, 0, 3);
+                    tv.setTextColor(Color.parseColor("#2F5496"));
                     konten.addView(tv);
                 }
                 if(anak.getNodeName().equals("subjudul")){
@@ -175,6 +178,7 @@ public class MateriContent extends AppCompatActivity {
                     tv.setTextSize(TypedValue.COMPLEX_UNIT_PX,
                             getResources().getDimension(R.dimen._14sdp));
                     tv.setPadding(7, 3, 0, 3);
+                    tv.setTextColor(Color.parseColor("#2F5496"));
                     konten.addView(tv);
                 };
                 if(anak.getNodeName().equals("url")) {
@@ -186,6 +190,7 @@ public class MateriContent extends AppCompatActivity {
                     final String isi = anak.getTextContent();
                     TextView tv = new TextView(this);
                     tv.setText("Open in Web Browser");
+                    tv.setGravity(Gravity.CENTER_VERTICAL | Gravity.CENTER_HORIZONTAL);
                     //tv.setTypeface(null, Typeface.BOLD);
                     tv.setId(nomor);
                     LinearLayout.LayoutParams ly = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
@@ -210,10 +215,10 @@ public class MateriContent extends AppCompatActivity {
                 if(anak.getNodeName().equals("teks")){
                     // add TextView
                     JustifiedTextView tv = new JustifiedTextView(this);
-                    //Typeface face = Typeface.createFromAsset(getAssets(),
-                      //      "fonts/baskvl.ttf");
+                    Typeface face = Typeface.createFromAsset(getAssets(),
+                            "fonts/sagoe.ttf");
                     tv.setText(anak.getTextContent());
-                    //tv.setTypeface(face);
+                    tv.setTypeface(face);
                     tv.setId(nomor);
                     tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
                             LinearLayout.LayoutParams.WRAP_CONTENT));
@@ -439,9 +444,9 @@ public class MateriContent extends AppCompatActivity {
                             tv.setText(anaknya.getTextContent());
                             //tv.setTypeface(null, Typeface.BOLD);
                             tv.setId(u);
-                          //  Typeface face = Typeface.createFromAsset(getAssets(),
-                            //        "fonts/baskvl.ttf");
-                            //tv.setTypeface(face);
+                            Typeface face = Typeface.createFromAsset(getAssets(),
+                                    "fonts/sagoe.ttf");
+                            tv.setTypeface(face);
                             tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
                                     LinearLayout.LayoutParams.WRAP_CONTENT));
                             //tv.setTextSize(16);
@@ -559,8 +564,8 @@ public class MateriContent extends AppCompatActivity {
                     tv2.setText("");
                     //tv.setTypeface(null, Typeface.BOLD);
                     tv2.setId(nomor);
-                    //Typeface face = Typeface.createFromAsset(getAssets(),"fonts/baskvl.ttf");
-                    //tv2.setTypeface(face);
+                    Typeface face = Typeface.createFromAsset(getAssets(),"fonts/sagoe.ttf");
+                    tv2.setTypeface(face);
                     LinearLayout.LayoutParams ly2 = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
                             LinearLayout.LayoutParams.WRAP_CONTENT);
                     ly2.setMargins(10,3,2,3);
@@ -592,8 +597,8 @@ public class MateriContent extends AppCompatActivity {
                             tv.setTextColor(getResources().getColor(R.color.white));
                             tv.setTextSize(TypedValue.COMPLEX_UNIT_PX,
                                     getResources().getDimension(R.dimen._14sdp));
-                            //Typeface facex = Typeface.createFromAsset(getAssets(),"fonts/baskvl.ttf");
-                            //tv.setTypeface(facex);
+                            Typeface facex = Typeface.createFromAsset(getAssets(),"fonts/sagoe.ttf");
+                            tv.setTypeface(facex);
                             tv.setPadding(4, 3, 0, 3);
                             linearLayout.addView(tv);
                         }
@@ -613,8 +618,8 @@ public class MateriContent extends AppCompatActivity {
                             tv.setText(anaknya.getTextContent());
                             //tv.setTypeface(null, Typeface.BOLD);
                             tv.setId(u);
-                           // Typeface facex = Typeface.createFromAsset(getAssets(),"fonts/baskvl.ttf");
-                            //tv.setTypeface(facex);
+                            Typeface facex = Typeface.createFromAsset(getAssets(),"fonts/sagoe.ttf");
+                            tv.setTypeface(facex);
                             tv.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,
                                     LinearLayout.LayoutParams.WRAP_CONTENT));
                             //tv.setTextSize(16);

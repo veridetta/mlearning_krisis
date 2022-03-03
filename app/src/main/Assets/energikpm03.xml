@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <materi> 
 <judul> Energi Kinetik, Potensial, dan Mekanik</judul>
-<html_format> kk2020p style="color: #2F5496;"> Energi Kinetik kk2020/p></html_format>
+<html_format> kk2020p>kk2020p/>kk2020p style="color: #2F5496;"> Energi Kinetik kk2020/p></html_format>
 <html_format>kk2020b>Energi kinetik kk2020/b> adalah energi yang dimiliki oleh benda yang sedang bergerak. Besarnya energi kinetik suatu benda dipengaruhi oleh 2 faktor. (1) kk2020b>Kecepatan: kk2020/b>semakin cepat sebuah benda maka semakin besar pula energi kinetiknya, dan (2) kk2020b>Massa: kk2020/b> semakin besar massa sebuah benda maka akan semakin besar pula energi kinetiknya. Contoh energi kinetik adalah energi untuk menggerakkan benda, energi listrik, energi panas, dan energi bunyi seperti terlihat pada Gambar berikut. </html_format>
 <gambar>cg1</gambar>
-<html_format> kk2020p style="font-size:9px;text-align:center"> kk2020i> Gambar 8 (a) Energi kinetik dipengaruhi oleh kecepatan dan massa (b) energi listrik berasal dari elektron yang bergerak (c) energi panas berasal dari energi gerak partikel (d) energi bunyi berasal dari getaran dan pergerakan partikel di medium
+<html_format> kk2020p style="font-size:9px;text-align:center;font-style: italic;"> kk2020i> Gambar 8 (a) Energi kinetik dipengaruhi oleh kecepatan dan massa (b) energi listrik berasal dari elektron yang bergerak (c) energi panas berasal dari energi gerak partikel (d) energi bunyi berasal dari getaran dan pergerakan partikel di medium
  kk2020/i> kk2020/p></html_format>
 
-<html_format> kk2020p style="color: #2F5496;"> Energi Potensial kk2020/p></html_format> 
+<html_format> kk2020p>kk2020p/>kk2020p style="color: #2F5496;"> Energi Potensial kk2020/p></html_format> 
 <html_format>Energi potensial adalah kk2020b>energi yang tersimpan kk2020/b> di dalam benda baik karena posisi / kedudukannya maupun karena ikatan kimia yang dikandungnya. Energi potensial belum berguna sampai energi tersebut dilepaskan dan diubah menjadi bentuk energi lain. Seperti misalnya bendungan air (Gambar 9a). Ketinggian air yang ditampung memiliki energi potensial gravitasi, namun energi tersebut belum dapat dimanfaatkan oleh manusia sampai dengan pintu bendungan dibuka sehingga air keluar dan menghasilkan energi kinetik yang dapat dimanfaatkan untuk menggerakkan turbin-turbin pembangkit energi listrik.</html_format>
 <gambar>cg2</gambar>
-<html_format> kk2020p style="font-size:9px;text-align:center"> kk2020i> Gambar 9 (a) air di bendungan memiliki energi potensial gravitasi (b) bahan makanan mengandung energi potensial dalam bentuk ikatan kimia kk2020/i> kk2020/p></html_format>
+<html_format> kk2020p style="font-size:9px;text-align:center;font-style: italic;"> kk2020i> Gambar 9 (a) air di bendungan memiliki energi potensial gravitasi (b) bahan makanan mengandung energi potensial dalam bentuk ikatan kimia kk2020/i> kk2020/p></html_format>
 <html_format>Makanan yang kita makan memiliki kandungan gizi seperti karbohidrat, lemak, dan protein (Gambar 9b). Setelah mengalami proses kk2020b>metabolisme kk2020/b>, bahan makanan tersebut diubah dan disimpan dalam bentuk molekul ATP (energi potensial) yang berguna untuk menyuplai energi ke berbagai anggota tubuh seperti sel otot yang dapat digunakan untuk menggerakkan rangka (energi kinetik)</html_format>
 
-<html_format> kk2020p style="color: #2F5496;"> Energi Mekanik kk2020/p></html_format>
+<html_format> kk2020p>kk2020p/>kk2020p style="color: #2F5496;"> Energi Mekanik kk2020/p></html_format>
 <html_format>kk2020b>Energi mekanik kk2020/b> adalah energi yang terdapat pada benda yang disebabkan oleh geraknya atau disebabkan oleh posisinya. Contoh dari energi mekanik di kehidupan sehari-hari adalah aktivitas seperti menggunakan palu, bersepeda, gerakan kincir angin, dll. kk2020b>Energi mekanik kk2020/b> dapat berupa kk2020b>energi kinetik kk2020/b> maupun kk2020b>energi potensial kk2020/b>. Secara singkat energi mekanik adalah jumlah total energi kinetik dan energi potensial. Energi mekanik juga dapat dinyatakan dalam persamaan berikut:</html_format>
 <gambar_tengah>cg3</gambar_tengah>
 <gambar>cg4</gambar>

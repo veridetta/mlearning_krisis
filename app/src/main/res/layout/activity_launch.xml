@@ -52,6 +52,6 @@
             android:textAllCaps="true"
             android:gravity="center"
             android:layout_gravity="center"
-            android:text="Teknologi &amp; Lingkungan"/>
+            android:text="Krisis Energi dan Pengaruhnya Terhadap Lingkungan"/>
     </LinearLayout>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

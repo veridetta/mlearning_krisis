@@ -482,7 +482,7 @@
                                         android:gravity="left"
                                         android:padding="@dimen/_4sdp"
                                         android:textStyle="bold"
-                                        android:text="kb CO2/tahun"
+                                        android:text="kg CO2/tahun"
                                         android:textSize="@dimen/_12sdp"
                                         android:textColor="@color/black"/>
                                 </LinearLayout>

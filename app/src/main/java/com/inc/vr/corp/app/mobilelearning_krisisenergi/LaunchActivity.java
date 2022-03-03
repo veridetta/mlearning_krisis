@@ -58,7 +58,7 @@ public class LaunchActivity extends AppCompatActivity {
                         // Log and toast
                         String msg = token;
                         Log.d("TOKEN", msg);
-                        Toast.makeText(LaunchActivity.this, msg, Toast.LENGTH_SHORT).show();
+                        //Toast.makeText(LaunchActivity.this, msg, Toast.LENGTH_SHORT).show();
                     }
                 });
     }

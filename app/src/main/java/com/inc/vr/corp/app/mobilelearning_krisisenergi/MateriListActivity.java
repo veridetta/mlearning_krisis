@@ -64,9 +64,9 @@ public class MateriListActivity extends AppCompatActivity {
         islamijudulList.add("Energi Kinetik, Potensial dan Mekanik");
         islamijudulList.add("Perubahan Bentuk Energi");
         islamijudulList.add("Efisiensi Energi ");
+        islamijudulList.add("Apa Itu Sumber Energi");
         islamijudulList.add("Sumber Energi Konvensional dan Dampak yang Ditimbulkannya");
         islamijudulList.add("Krisis Energi");
-        islamijudulList.add("Dampak Krisis Energi");
         islamijudulList.add("Upaya Penanggulangan Krisis Energi");
         islamijudulList.add("Sumber Energi Terbarukan");
         islamijudulList.add("Referensi");

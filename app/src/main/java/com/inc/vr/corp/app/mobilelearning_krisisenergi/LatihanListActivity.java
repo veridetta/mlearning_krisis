@@ -24,7 +24,7 @@ public class LatihanListActivity extends AppCompatActivity {
         pg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(LatihanListActivity.this, TesActivity.class);
+                Intent intent = new Intent(LatihanListActivity.this, TesKognitifActivity.class);
                 intent.putExtra("jenis","pg");
                 startActivity(intent);
             }

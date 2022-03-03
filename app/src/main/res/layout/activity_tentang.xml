@@ -32,7 +32,7 @@
                     android:layout_marginTop="@dimen/_30sdp"
                     android:paddingLeft="@dimen/_10sdp"
                     android:paddingRight="@dimen/_10sdp"
-                    android:text="Penyusunan Mobile Learning Teknologi dan Lingkungan"
+                    android:text="Penyusunan Mobile Learning Krisis Energi dan Pengaruhnya Terhadap Lingkungan"
                     android:textSize="@dimen/_15sdp"
                     android:textStyle="bold" />
 
@@ -87,7 +87,7 @@
                     android:paddingRight="@dimen/_20sdp"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Dr. Didi Teguh Chandra, M.Si"
+                    android:text="Prof. Dr. Parlindungan Sinaga, M.Si."
                     android:textSize="@dimen/_13sdp" />
 
                 <TextView
@@ -110,7 +110,7 @@
                     android:paddingRight="@dimen/_20sdp"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Dr. Parsaoran Siahaan, M.Pd"
+                    android:text="Dr. Taufik Rahman, M.Pd."
                     android:textSize="@dimen/_13sdp" />
             </LinearLayout>
         </androidx.core.widget.NestedScrollView>

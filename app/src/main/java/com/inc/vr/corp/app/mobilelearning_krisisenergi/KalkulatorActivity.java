@@ -160,12 +160,7 @@ public class KalkulatorActivity extends AppCompatActivity {
                 Glide.with(img_kiri.getContext())
                         .load(res_kiri).apply(options)
                         .into(img_kiri);
-                int res_kanan = getResources().getIdentifier (arr_gambar[sp_kanan.getSelectedItemPosition()], "drawable", "com.inc.vr.corp.app.mobilelearning_krisisenergi");
-                img_kanan.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
-                Glide.with(img_kanan.getContext())
-                        .load(res_kanan).apply(options)
-                        .into(img_kanan);
-                img_kanan.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+                img_kiri.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
             }
 
             @Override
@@ -185,9 +180,9 @@ public class KalkulatorActivity extends AppCompatActivity {
                     v_awwal="0";
                 }
                 Integer v_awal = Integer.valueOf(String.valueOf(v_awwal));
-                double v_kanan = (v_awal * arr_kwh[i])/arr_kwh[sp_kiri.getSelectedItemPosition()];
-                des_kiri_1.setText(arr_des1[i]);
-                des_kiri_2.setText(arr_des2[i]);
+                double v_kanan = (v_awal * arr_kwh[i])/arr_kwh[sp_kanan.getSelectedItemPosition()];
+                des_kanan_1.setText(arr_des1[i]);
+                des_kanan_2.setText(arr_des2[i]);
                 val_kanan.setText(String.valueOf(v_kanan));
                 val_kwh.setText(String.valueOf(arr_kwh[i]));
                 val_batu_bara.setText(String.valueOf( ((v_awal * arr_kwh[i])/arr_kwh[3])));
@@ -196,10 +191,6 @@ public class KalkulatorActivity extends AppCompatActivity {
                 val_polusi.setText(String.valueOf(((v_awal * 1.05)/12)));
                 RequestOptions options = new RequestOptions();
                 options.centerCrop();
-                int res_kiri = getResources().getIdentifier (arr_gambar[sp_kiri.getSelectedItemPosition()], "drawable", "com.inc.vr.corp.app.mobilelearning_krisisenergi");
-                Glide.with(img_kiri.getContext())
-                        .load(res_kiri).apply(options)
-                        .into(img_kiri);
                 int res_kanan = getResources().getIdentifier (arr_gambar[sp_kanan.getSelectedItemPosition()], "drawable", "com.inc.vr.corp.app.mobilelearning_krisisenergi");
                 img_kanan.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
                 Glide.with(img_kanan.getContext())
