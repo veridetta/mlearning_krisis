@@ -117,15 +117,13 @@
                                 android:layout_height="wrap_content"
                                 android:orientation="horizontal"
                                 android:paddingLeft="@dimen/_12sdp"
-                                android:paddingRight="@dimen/_12sdp"
-                                android:weightSum="2">
+                                android:paddingRight="@dimen/_12sdp">
                                 <RelativeLayout
-                                    android:layout_weight="1"
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content">
+                                    android:layout_width="@dimen/_140sdp"
+                                    android:layout_height="@dimen/_250sdp">
                                     <LinearLayout
                                         android:layout_width="match_parent"
-                                        android:layout_height="wrap_content">
+                                        android:layout_height="@dimen/_250sdp">
                                         <ImageView
                                             android:layout_marginRight="@dimen/_3sdp"
                                             android:id="@+id/img_kiri"
@@ -172,17 +170,16 @@
                                     </LinearLayout>
                                 </RelativeLayout>
                                 <RelativeLayout
-                                    android:layout_weight="1"
-                                    android:layout_width="match_parent"
-                                    android:layout_height="wrap_content">
+                                    android:layout_width="@dimen/_140sdp"
+                                    android:layout_height="@dimen/_250sdp">
                                     <LinearLayout
                                         android:layout_width="match_parent"
-                                        android:layout_height="wrap_content">
+                                        android:layout_height="@dimen/_250sdp">
                                         <ImageView
                                             android:id="@+id/img_kanan"
                                             android:layout_width="match_parent"
                                             android:layout_height="@dimen/_250sdp"
-                                            android:background="@drawable/bg2"/>
+                                            android:background="@drawable/bg1"/>
                                     </LinearLayout>
                                     <LinearLayout
                                         android:layout_width="match_parent"

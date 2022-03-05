@@ -127,7 +127,7 @@ public class KalkulatorActivity extends AppCompatActivity {
                         .load(res_kiri).apply(options)
                         .into(img_kiri);
                 int res_kanan = getResources().getIdentifier (arr_gambar[sp_kanan.getSelectedItemPosition()], "drawable", "com.inc.vr.corp.app.mobilelearning_krisisenergi");
-                img_kanan.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+                img_kiri.setLayoutParams(new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
                 Glide.with(img_kanan.getContext())
                         .load(res_kanan).apply(options)
                         .into(img_kanan);

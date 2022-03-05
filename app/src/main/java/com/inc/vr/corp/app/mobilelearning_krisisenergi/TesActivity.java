@@ -49,7 +49,7 @@ public class TesActivity extends AppCompatActivity {
     ArrayList<EditText> editTextList;
     Intent intent;
     SharedPreferences myshared;
-    TextView nama_tes;
+    TextView nama_tes,des_tes;
     String jenis, filenya, nama, jk, sekolah, kelas, hp, email, nama_tesnya;
     boolean connected = false;
     @Override
@@ -68,6 +68,7 @@ public class TesActivity extends AppCompatActivity {
         hp = myshared.getString("nohp","default nohp");
         email = myshared.getString("email","default email");
         nama_tes = findViewById(R.id.nama_tes);
+        des_tes = findViewById(R.id.des_tes);
         if (jenis.equals("pg")){
             filenya = "tes.xml";
             jumlah_soal_pg=13;
@@ -82,15 +83,16 @@ public class TesActivity extends AppCompatActivity {
             jumlah_soal_essay=0;
             jumlah_soal = 13;
             nama_tesnya = "Tes Kemampuan Afektif";
-            nama_tes.setText("Tes Kemampuan Afektif");
+            nama_tes.setText("Penilaian Afektif");
+            des_tes.setText("Jawablah pernyataan dibawah ini sesuai dengan pandanganmu terhadap pernyataan tersebut");
         }
         if (jenis.equals("behavior")){
             filenya = "behavior.xml";
             jumlah_soal_pg=8;
             jumlah_soal_essay=0;
             jumlah_soal = 8;
-            nama_tesnya = "Tes Kemampuan Behavior";
-            nama_tes.setText("Tes Kemampuan Behavior");
+            nama_tesnya = "BEHAVIOR";
+            nama_tes.setText("Jawablah pernyataan dibawah ini sesuai dengan keadaan yang sebenarnya\n");
         }
         editTextList = new ArrayList<EditText>();
         ly_soal = findViewById(R.id.soal_ly);

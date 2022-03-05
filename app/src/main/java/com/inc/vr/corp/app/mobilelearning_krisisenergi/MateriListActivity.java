@@ -59,28 +59,40 @@ public class MateriListActivity extends AppCompatActivity {
                 islamikategoriList,
                 islamigambarList, islamiurlList,islamipenerbitList
                 ,islamiwaktuList,islamiDesList, islamifavList);
-        islamijudulList.add("Pengertian Energi");
-        islamijudulList.add("Bentuk Energi");
-        islamijudulList.add("Energi Kinetik, Potensial dan Mekanik");
-        islamijudulList.add("Perubahan Bentuk Energi");
-        islamijudulList.add("Efisiensi Energi ");
-        islamijudulList.add("Apa Itu Sumber Energi");
-        islamijudulList.add("Sumber Energi Konvensional dan Dampak yang Ditimbulkannya");
-        islamijudulList.add("Krisis Energi");
-        islamijudulList.add("Upaya Penanggulangan Krisis Energi");
-        islamijudulList.add("Sumber Energi Terbarukan");
-        islamijudulList.add("Referensi");
-        islamigambarList.add("pengertian01");
-        islamigambarList.add("bentuk02");
-        islamigambarList.add("energikpm03");
-        islamigambarList.add("perubahan04");
-        islamigambarList.add("efisiensi05");
-        islamigambarList.add("sumber06");
-        islamigambarList.add("krisis07");
-        islamigambarList.add("dampak08");
-        islamigambarList.add("upaya09");
-        islamigambarList.add("sumber10");
+        islamijudulList.add("Pengertian Energi");//a1
+        islamijudulList.add("Bentuk Energi");//b2
+        islamijudulList.add("Energi Kinetik, Potensial dan Mekanik");//c3
+        islamijudulList.add("Perubahan Bentuk Energi");//d4
+        islamijudulList.add("Efisiensi Energi ");//e5
+        islamijudulList.add("Apa Itu Sumber Energi");//f6
+        islamijudulList.add("Energi Batu Bara");//g7
+        islamijudulList.add("Energi Minyak Bumi");//h8
+        islamijudulList.add("Energi Gas Alam");//i9
+        islamijudulList.add("Energi Nuklir");//j10
+        islamijudulList.add("Dampak Krisis Energi");//k11
+        islamijudulList.add("Krisis Energi");//l12
+        islamijudulList.add("Upaya Penanggulangan Krisis Energi");//m13
+        islamijudulList.add("Sumber Energi Terbarukan");//n14
+        islamijudulList.add("Referensi");//o
+        islamigambarList.add("m_01_pengertian");
+        islamigambarList.add("m_02_bentuk");
+        islamigambarList.add("m_03_kpm");
+        islamigambarList.add("m_04_perubahan");
+        islamigambarList.add("m_05_efisiensi");
+        islamigambarList.add("m_06_apaitu");
+        islamigambarList.add("m_07_batubara");
+        islamigambarList.add("m_08_minyak");
+        islamigambarList.add("m_09_gas");
+        islamigambarList.add("m_10_nuklir");
+        islamigambarList.add("m_11_dampak");
+        islamigambarList.add("m_12_krisis");
+        islamigambarList.add("m_13_upaya");
+        islamigambarList.add("m_14_terbarukan");
         islamigambarList.add("daftar");
+        islamiurlList.add("com.inc.vr.corp.app.mobilelearning_krisisenergi.materi.MateriContent");
+        islamiurlList.add("com.inc.vr.corp.app.mobilelearning_krisisenergi.materi.MateriContent");
+        islamiurlList.add("com.inc.vr.corp.app.mobilelearning_krisisenergi.materi.MateriContent");
+        islamiurlList.add("com.inc.vr.corp.app.mobilelearning_krisisenergi.materi.MateriContent");
         islamiurlList.add("com.inc.vr.corp.app.mobilelearning_krisisenergi.materi.MateriContent");
         islamiurlList.add("com.inc.vr.corp.app.mobilelearning_krisisenergi.materi.MateriContent");
         islamiurlList.add("com.inc.vr.corp.app.mobilelearning_krisisenergi.materi.MateriContent");

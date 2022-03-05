@@ -54,7 +54,8 @@
                         android:layout_marginLeft="@dimen/_12sdp">
                         <LinearLayout
                             android:layout_width="match_parent"
-                            android:layout_height="@dimen/_90sdp"
+                            android:layout_height="wrap_content"
+                            android:minHeight="@dimen/_90sdp"
                             android:orientation="vertical"
                             android:paddingRight="@dimen/_12sdp"
                             android:paddingTop="@dimen/_10sdp"
@@ -63,14 +64,13 @@
                             android:layout_gravity="center"
                             android:gravity="center">
                             <TextView
+                                android:id="@+id/des_tes"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:textColor="@color/orange_500"
-                                android:textStyle="bold"
-                                android:textSize="@dimen/_17sdp"
-                                android:textAllCaps="true"
+                                android:textSize="@dimen/_14sdp"
                                 android:layout_gravity="center"
-                                android:text="Selamat Mengerjakan!!"/>
+                                android:text="@string/des_kognitif"/>
                         </LinearLayout>
                     </androidx.cardview.widget.CardView>
                     <LinearLayout

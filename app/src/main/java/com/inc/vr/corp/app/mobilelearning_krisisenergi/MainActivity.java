@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                         //String msg = getString(R.string.msg_token_fmt, token);
                         String msg = token;
                         Log.d("TAG", msg);
-                        Toast.makeText(MainActivity.this, msg, Toast.LENGTH_LONG).show();
+                        //Toast.makeText(MainActivity.this, msg, Toast.LENGTH_LONG).show();
                     }
                 });
         FirebaseMessaging.getInstance().setAutoInitEnabled(true);
