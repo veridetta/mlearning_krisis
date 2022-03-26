@@ -3,6 +3,7 @@
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/291ca1bb5a08d7b2c6ce4913de18cb6b/jetified-exoplayer-core-2.7.3/annotations.zip!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e18e907d97cb81f683e32186bb86453c/jetified-exoplayer-core-2.7.3/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9d5a80cad7df997af04d6bc45889ee9/jetified-exoplayer-core-2.7.3/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/291ca1bb5a08d7b2c6ce4913de18cb6b/jetified-exoplayer-core-2.7.3/jars/classes.jar!/" />
@@ -13,6 +14,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e18e907d97cb81f683e32186bb86453c/jetified-exoplayer-core-2.7.3/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e18e907d97cb81f683e32186bb86453c/jetified-exoplayer-core-2.7.3/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e18e907d97cb81f683e32186bb86453c/jetified-exoplayer-core-2.7.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9d5a80cad7df997af04d6bc45889ee9/jetified-exoplayer-core-2.7.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9d5a80cad7df997af04d6bc45889ee9/jetified-exoplayer-core-2.7.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9d5a80cad7df997af04d6bc45889ee9/jetified-exoplayer-core-2.7.3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.7.3/55af5347a76fb2686557058e2ec295ae58fe0d07/exoplayer-core-2.7.3-javadoc.jar!/" />
